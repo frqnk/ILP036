@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Telefone
+comment1.params=ddd\ numero
+comment1.target=Telefone(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Telefone()
+comment3.params=
+comment3.target=java.lang.String\ getDdd()
+comment4.params=ddd
+comment4.target=void\ setDdd(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNumero()
+comment6.params=numero
+comment6.target=void\ setNumero(java.lang.String)
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=nome\ data
+comment1.target=Pessoa(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ retiraLivro()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getData()
+comment6.params=data
+comment6.target=void\ setData(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getFone()
+comment8.params=ddd\ num
+comment8.target=void\ setFone(java.lang.String,\ java.lang.String)
+numComments=9

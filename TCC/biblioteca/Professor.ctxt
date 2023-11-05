@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=nome\ data\ titulacao\ dataContratacao
+comment1.target=Professor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ retiraLivro()
+comment3.params=
+comment3.target=java.lang.String\ getTitulacao()
+comment4.params=titulacao
+comment4.target=void\ setTitulacao(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDataContratacao()
+comment6.params=dataContratacao
+comment6.target=void\ setDataContratacao(java.lang.String)
+numComments=7

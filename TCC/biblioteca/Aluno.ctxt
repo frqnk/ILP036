@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=nome\ data\ ra\ curso
+comment1.target=Aluno(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ retiraLivro()
+comment3.params=
+comment3.target=java.lang.String\ getRa()
+comment4.params=ra
+comment4.target=void\ setRa(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCurso()
+comment6.params=curso
+comment6.target=void\ setCurso(java.lang.String)
+numComments=7
